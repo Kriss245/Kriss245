@@ -25,11 +25,6 @@
   />
 
   <br><br>
-  
-  <h3>My GitHub Activity</h3>
-  <img src="https://your-gif-or-graph-here.gif" alt="Trading-style Contribution Graph" style="max-width: 100%; border-radius: 10px; box-shadow: 0 0 10px #00ff00;" />
-
-  <br><br>
 
   ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Kriss245&show_icons=true&count_private=true&theme=dark&hide_title=true&hide_rank=true&hide=issues,prs)
   
@@ -39,6 +34,24 @@
 
   <br>
 
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kriss245&bg_color=0d1117&color=00ff99&line=00ffff&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+    style="margin-top: 30px; box-shadow: 0 4px 16px rgba(0, 255, 153, 0.2); border-radius: 12px; max-width: 100%;"
+  />
+
+  <br><br>
+
+  <img 
+    src="https://media.tenor.com/Fy8d9e9x_f8AAAAd/trading-bitcoin.gif" 
+    width="400" 
+    alt="Trading Chart Animation"
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(255,255,255,0.1);"
+  />
+
+  <br><br>
+
+  <sub style="color: gray;">Just like trading — keep committing, keep compounding 🚀</sub>
 
   <h3>🧠 Currently Playing With</h3>
   <img src="https://skillicons.dev/icons?i=python,java,php,laravel,dart" />
