@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍🎓 Kristian Abel
 
-<!--
-**Kriss245/Kriss245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil saya! Saya seorang mahasiswa Teknik Informatika yang fokus pada **AI, Web Development, dan Sistem Terdistribusi**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skillset
+- 💻 Bahasa: Python, Java, PHP, Dart
+- ⚙️ Framework: Laravel, Kivy, Flutter
+- ☁️ Tools: Firebase, Git, Figma, MySQL, Netbeans
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=firmanid&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmanid&layout=compact&theme=dracula)
+
+---
+
+## 📫 Hubungi Saya
+- 📧 Email: kristianabel20@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/kristianabel](www.linkedin.com/in/kristianabel)
+
+> “Simplicity is the soul of efficiency.” — Austin Freeman
