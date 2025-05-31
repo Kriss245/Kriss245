@@ -25,6 +25,11 @@
   />
 
   <br><br>
+  
+  <h3>My GitHub Activity</h3>
+  <img src="https://your-gif-or-graph-here.gif" alt="Trading-style Contribution Graph" style="max-width: 100%; border-radius: 10px; box-shadow: 0 0 10px #00ff00;" />
+
+  <br><br>
 
   ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Kriss245&show_icons=true&count_private=true&theme=dark&hide_title=true&hide_rank=true&hide=issues,prs)
   
