@@ -9,7 +9,7 @@
 
   <br>
   
-  ![GitHub Snake](https://raw.githubusercontent.com/Kriss245/snake/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake](https://raw.githubusercontent.com/Kriss245/snk/output/github-contribution-grid-snake.svg)
 
   <br>
   
