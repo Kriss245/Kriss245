@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/assets/nintendo-banner.gif" width="100%" alt="nintendo-banner">
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+World!;Coding+is+Life!;Welcome+to+My+Retro+Lab!" />
+
   <h1>🕹️ Welcome to My GitHub Arcade! 🎮</h1>
   <p><strong>Hi, I'm Kristian Abel</strong> — A developer who codes like it's 2020. 🔥<br>
   I love building systems, bots, and games with retro vibes.</p>
