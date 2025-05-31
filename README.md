@@ -12,8 +12,8 @@ Selamat datang di profil saya! Saya seorang mahasiswa Teknik Informatika yang fo
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=firmanid&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmanid&layout=compact&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kriss245&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss245&layout=compact&theme=dracula)
 
 ---
 
