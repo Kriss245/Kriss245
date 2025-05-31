@@ -1,6 +1,6 @@
 # 👨‍🎓 Kristian Abel
 
-Selamat datang di profil saya! Saya seorang mahasiswa Teknik Informatika yang fokus pada **AI, Web Development, dan Sistem Terdistribusi**.
+Selamat datang di profil saya! Saya seorang mahasiswa Teknik Informatika yang fokus pada **AI, Web Development, dan Web Design**.
 
 ---
 
