@@ -26,11 +26,11 @@
 
   <br><br>
 
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kriss245&bg_color=0d1117&color=ffcc00&line=00ff00&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-    style="box-shadow: 0 4px 12px rgba(255, 204, 0, 0.3); border-radius: 10px; max-width: 100%;"
-  />
+  ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Kriss245&show_icons=true&count_private=true&theme=dark&hide_title=true&hide_rank=true&hide=issues,prs)
+  
+  <br><br>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kriss245&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
 
   <br>
 
