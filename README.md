@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/Game.gif" width=70%" alt="Pixel Game">
+  <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/Game.gif" width=55%" alt="Pixel Game">
 
   <br><br>
   
