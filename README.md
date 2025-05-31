@@ -10,7 +10,7 @@
   
   ![GitHub Snake](https://raw.githubusercontent.com/Kriss245/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
-  <br>
+  <br><br>
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Kriss245&show_icons=true&theme=tokyonight&icon_color=ffcc00&title_color=ffcc00&bg_color=0d1117&border_color=ffcc00&hide=prs,issues"
@@ -34,7 +34,7 @@
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kriss245&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
 
-  <br>
+  <br><br>
 
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Kriss245&bg_color=0d1117&color=00ff99&line=00ffff&point=ffffff&area=true&hide_border=true"
