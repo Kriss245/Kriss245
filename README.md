@@ -42,16 +42,7 @@
 
   <br><br>
 
-  <img 
-    src="https://media.tenor.com/Fy8d9e9x_f8AAAAd/trading-bitcoin.gif" 
-    width="400" 
-    alt="Trading Chart Animation"
-    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(255,255,255,0.1);"
-  />
-
-  <br><br>
-
-  <sub style="color: gray;">Just like trading — keep committing, keep compounding 🚀</sub>
+  <sub style="color: gray;">Just like trading — stay focused on the goal and keep committing 🚀</sub>
 
   <h3>🧠 Currently Playing With</h3>
   <img src="https://skillicons.dev/icons?i=python,java,php,laravel,dart" />
