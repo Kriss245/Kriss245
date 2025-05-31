@@ -7,6 +7,11 @@
 
   <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/assets/pixel-snake.gif" width="300" alt="pixel-snake">
 
+### 🎮 Play My Retro Snake Game
+> Klik untuk mencoba game snake buatan saya!
+
+👉 [Play Now](https://Kriss245.github.io/retro-snake-game/)
+
   <br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+guys!;Code+like+a+hero!;" />
