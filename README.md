@@ -7,10 +7,13 @@
 
   <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/assets/pixel-snake.gif" width="300" alt="pixel-snake">
 
-### 🎮 Play My Retro Snake Game
-> Klik untuk mencoba game snake buatan saya!
+  <br>
 
-👉 [Play Now](https://Kriss245.github.io/retro-snake-game/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
   <br>
 
@@ -29,7 +32,7 @@
   <br>
 
   <h3>🧠 Currently Playing With</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,php,laravel,firebase" />
+  <img src="https://skillicons.dev/icons?i=python, java, php, laravel, Dart, Flutter, firebase, MySQL" />
 
   <br><br>
 
