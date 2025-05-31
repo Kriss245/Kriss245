@@ -24,7 +24,7 @@
   <br>
 
   <h3>🧠 Currently Playing With</h3>
-  <img src="https://skillicons.dev/icons?i=python, java, php, laravel, Dart, Flutter, firebase, MySQL" />
+  <img src="https://skillicons.dev/icons?i=python, java, php, laravel, Dart, Flutter, firebase" />
 
   <br><br>
 
