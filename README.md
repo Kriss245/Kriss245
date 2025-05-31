@@ -40,12 +40,6 @@
     style="margin-top: 30px; box-shadow: 0 4px 16px rgba(0, 255, 153, 0.2); border-radius: 12px; max-width: 100%;"
   />
 
-  <br>
-
-  <h3 style="color: gray;">
-    Just like trading — stay focused on the goal and keep committing 🚀
-  </h3>
-
   <br/>
 
   ![Commitment Badge](https://img.shields.io/badge/Commitment-Stay%20Focused%20%E2%9C%85-blue?style=for-the-badge&animation=glitch)
