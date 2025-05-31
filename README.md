@@ -46,7 +46,7 @@
   </h3>
   
   <div align="center" style="margin-top: 20px;">
-    <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/assets/pixel-text-anim.gif" 
+    <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/Pixel Text.gif" 
          alt="Pixel Animated Caption" width="500" />
   </div>
 
