@@ -8,7 +8,11 @@
   <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/assets/pixel-snake.gif" width="300" alt="pixel-snake">
 
   <br>
+  
+  ![GitHub Snake](https://raw.githubusercontent.com/Kriss245/snake/output/github-contribution-grid-snake.svg)
 
+  <br>
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+guys!;Code+like+a+hero!;" />
 
   <br><br>
