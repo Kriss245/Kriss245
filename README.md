@@ -12,15 +12,28 @@
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Kriss245&show_icons=true&theme=tokyonight&icon_color=ffcc00&title_color=ffcc00&bg_color=0d1117&border_color=ffcc00" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kriss245&show_icons=true&theme=tokyonight&icon_color=ffcc00&title_color=ffcc00&bg_color=0d1117&border_color=ffcc00&hide=prs,issues"
+    alt="Kriss245's GitHub Stats"
+    style="margin-bottom: 20px; box-shadow: 0 4px 12px rgba(255, 204, 0, 0.3); border-radius: 10px;"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss245&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=ffcc00" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss245&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=ffcc00&hide=jupyter%20notebook,html"
+    alt="Top Languages"
+    style="box-shadow: 0 4px 12px rgba(255, 204, 0, 0.3); border-radius: 10px;"
+  />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kriss245&bg_color=0d1117&color=ffcc00&line=00ff00&point=ffffff&area=true&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kriss245&bg_color=0d1117&color=ffcc00&line=00ff00&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+    style="box-shadow: 0 4px 12px rgba(255, 204, 0, 0.3); border-radius: 10px; max-width: 100%;"
+  />
 
   <br>
+
 
   <h3>🧠 Currently Playing With</h3>
   <img src="https://skillicons.dev/icons?i=python,java,php,laravel,dart" />
