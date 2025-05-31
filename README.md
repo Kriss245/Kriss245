@@ -1,4 +1,4 @@
-<div style="overflow: hidden; border-radius: 16px; width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" align="center">
+<div style="overflow: hidden; border-radius: 16px; width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.2) align="center">
   
   <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/Game.gif" width="100%" alt="Pixel Game">
 
