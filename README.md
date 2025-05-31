@@ -5,8 +5,6 @@
   <h1>🕹️ Welcome to My GitHub Arcade! 🎮</h1>
   <p><strong>Hi, I'm Kristian Abel</strong> — A developer who codes like it's 2020. 🔥<br>
   I love building systems, bots, and games with retro vibes.</p>
-
-  <br>
   
   ![GitHub Snake](https://raw.githubusercontent.com/Kriss245/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
