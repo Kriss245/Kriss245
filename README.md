@@ -1,10 +1,10 @@
 <div align="center">
-
+  
+  <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/Game.gif" width="50%" alt="Pixel Game">
+  
   <h1>🕹️ Welcome to My GitHub Arcade! 🎮</h1>
   <p><strong>Hi, I'm Kristian Abel</strong> — A developer who codes like it's 2020. 🔥<br>
   I love building systems, bots, and games with retro vibes.</p>
-
-  <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/Game.gif" width="80%" alt="Pixel Game">
 
   <br>
   
