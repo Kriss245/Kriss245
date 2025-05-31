@@ -40,14 +40,15 @@
     style="margin-top: 30px; box-shadow: 0 4px 16px rgba(0, 255, 153, 0.2); border-radius: 12px; max-width: 100%;"
   />
 
-  <br/>
-
-  ![Commitment Badge](https://img.shields.io/badge/Commitment-Stay%20Focused%20%E2%9C%85-blue?style=for-the-badge&animation=glitch)
-  &nbsp;&nbsp;
+  <h3 align="center" style="color: #888888; font-family: 'Courier New', Courier, monospace; 
+     text-shadow: 1px 1px 0 #000, 2px 2px 0 #444; letter-spacing: 2px;">
+    Just like trading — stay focused on the goal and keep committing 🚀
+  </h3>
   
-  ![Trading Focus](https://img.shields.io/badge/Trading-Focus%20%F0%9F%9A%80-green?style=for-the-badge)
-
-  <br>
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/assets/pixel-text-anim.gif" 
+         alt="Pixel Animated Caption" width="500" />
+  </div>
 
   <h3>🧠 Currently Playing With</h3>
   <img src="https://skillicons.dev/icons?i=python,java,php,laravel,dart" />
