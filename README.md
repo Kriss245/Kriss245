@@ -18,6 +18,8 @@
     style="margin-bottom: 20px; box-shadow: 0 4px 12px rgba(255, 204, 0, 0.3); border-radius: 10px;"
   />
 
+  <br><br>
+  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss245&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=ffcc00&hide=jupyter%20notebook,html"
     alt="Top Languages"
