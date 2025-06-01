@@ -9,7 +9,7 @@
 
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+guys!;Code+like+a+hero!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+guys!;Code+like+a+hero!;"/>
   
   ![GitHub Snake](https://raw.githubusercontent.com/Kriss245/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
