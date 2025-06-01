@@ -40,10 +40,10 @@
   <br><br>
 
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kriss245&bg_color=0d1117&color=00ff99&line=00ffff&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-    style="margin-top: 30px; box-shadow: 0 4px 16px rgba(0, 255, 153, 0.2); border-radius: 12px; max-width: 100%;"
-  />
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Kriss245&bg_color=0d1117&color=00ff99&line=00ffff&point=ffffff&area=true&hide_border=true&t=<?= new Date().getTime() ?>"
+  alt="GitHub Activity Graph"
+  style="margin-top: 30px; box-shadow: 0 4px 16px rgba(0, 255, 153, 0.2); border-radius: 12px; max-width: 100%;"
+/>
 
   <h3 align="center" style="color: #888888; font-family: 'Courier New', Courier, monospace; 
      text-shadow: 1px 1px 0 #000, 2px 2px 0 #444; letter-spacing: 2px;">
