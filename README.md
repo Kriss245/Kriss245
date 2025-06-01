@@ -55,7 +55,7 @@
          alt="Pixel Animated Caption" width="500" />
   </div>
 
-  <h3>🧠 Currently Playing With</h3>
+  <h3>Currently Playing With</h3>
   <img src="https://skillicons.dev/icons?i=python,java,php,laravel,dart" />
 
   <br><br>
