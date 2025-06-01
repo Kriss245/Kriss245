@@ -31,12 +31,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+guys!;Code+like+a+hero!;" 
        style="image-rendering: pixelated;"/>
 
-  <br><br>
+  <br>
 
   <img src="https://raw.githubusercontent.com/Kriss245/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" 
        style="image-rendering: pixelated; filter: drop-shadow(1px 1px 0 #00ff00); border: 2px solid #00ff00; border-radius: 8px;"/>
 
-  <br><br>
+  <br>
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Kriss245&show_icons=true&theme=tokyonight&icon_color=00ff00&title_color=00ff00&bg_color=000000&border_color=00ff00&hide=prs,issues" 
