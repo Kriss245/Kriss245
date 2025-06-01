@@ -26,12 +26,8 @@
     I enjoy exploring creative coding projects and continuously learning to build smarter, more impactful digital solutions...
   </p>
 
-  <br>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+guys!;Code+like+a+hero!;" 
        style="image-rendering: pixelated;"/>
-
-  <br>
 
   <img src="https://raw.githubusercontent.com/Kriss245/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" 
        style="image-rendering: pixelated; filter: drop-shadow(1px 1px 0 #00ff00); border: 2px solid #00ff00; border-radius: 8px;"/>
