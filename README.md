@@ -74,15 +74,31 @@
     style="margin-top: 30px; box-shadow: 0 0 10px #00ff00; border-radius: 12px; max-width: 100%; image-rendering: pixelated;" 
   />
 
-  <h3 align="center" style="
-    color: #00ff00; 
-    font-family: 'Press Start 2P', monospace; 
-    text-shadow: 2px 2px #004400; 
-    letter-spacing: 2px;
-    margin-top: 20px;
+  <br>
+
+  <!-- Scrolling Pixel Text Animation -->
+  <div style="
+    overflow: hidden; 
+    white-space: nowrap; 
+    width: 100%; 
+    border-top: 2px dashed #00ff00; 
+    border-bottom: 2px dashed #00ff00; 
+    padding: 8px 0; 
+    background-color: #000;
+    margin: 24px 0;
   ">
-    Just like trading — stay focused on the goal and keep committing 🚀
-  </h3>
+    <div style="
+      display: inline-block;
+      animation: scrollText 15s linear infinite;
+      font-family: 'Press Start 2P', monospace;
+      color: #00ff00;
+      font-size: 10px;
+      letter-spacing: 2px;
+      text-shadow: 1px 1px #004400;
+    ">
+      🚀 Just like trading — stay focused on the goal and keep committing 🚀 &nbsp; 🚀 Just like trading — stay focused on the goal and keep committing 🚀
+    </div>
+  </div>
 
   <div align="center" style="margin-top: 20px;">
     <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/Pixel Text.gif" 
@@ -101,5 +117,13 @@
   </p>
 </div>
 
-<!-- Import Google Font for Pixel Retro style -->
+<!-- Import Google Font -->
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+
+<!-- Scrolling Animation Keyframes -->
+<style>
+@keyframes scrollText {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
