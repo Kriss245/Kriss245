@@ -7,7 +7,7 @@
   <h1>🕹️ Welcome to My GitHub! 🎮</h1>
   <p><strong>Hi, I'm Kristian Abel</strong> — a Computer Science student majoring in Intelligent Systems. <br> I'm passionate about developing my skills in Artificial Intelligence, Web Design, and Web Development. <br> I enjoy exploring creative coding projects and continuously learning to build smarter, more impactful digital solutions...</p>
 
-  <br><br>
+  <br>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+guys!;Code+like+a+hero!;"/>
   
