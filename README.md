@@ -21,8 +21,8 @@
   <h1 style="text-shadow: 2px 2px #008000;">🕹️ Welcome to My GitHub! 🎮</h1>
 
   <p style="line-height: 1.4; max-width: 480px; margin: 0 auto; font-size: 11px;">
-    <strong>Hi, I'm Kristian Abel</strong> — a Computer Science student majoring in Intelligent Systems. <br>  
-    I'm passionate about developing my skills in Artificial Intelligence, Web Design, and Web Development. <br> 
+    <strong>Hi, I'm Kristian Abel</strong> — a Computer Science student majoring in Intelligent Systems. <br>
+    I'm passionate about developing my skills in Artificial Intelligence, Web Design, and Web Development. <br>
     I enjoy exploring creative coding projects and continuously learning to build smarter, more impactful digital solutions...
   </p>
 
@@ -31,10 +31,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+guys!;Code+like+a+hero!;" 
        style="image-rendering: pixelated;"/>
 
+  <br>
+
   <img src="https://raw.githubusercontent.com/Kriss245/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" 
        style="image-rendering: pixelated; filter: drop-shadow(1px 1px 0 #00ff00); border: 2px solid #00ff00; border-radius: 8px;"/>
 
-  <br>
+  <br><br>
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Kriss245&show_icons=true&theme=tokyonight&icon_color=00ff00&title_color=00ff00&bg_color=000000&border_color=00ff00&hide=prs,issues" 
@@ -75,30 +77,16 @@
   />
 
   <br>
-
-  <!-- Scrolling Pixel Text Animation -->
-  <div style="
-    overflow: hidden; 
-    white-space: nowrap; 
-    width: 100%; 
-    border-top: 2px dashed #00ff00; 
-    border-bottom: 2px dashed #00ff00; 
-    padding: 8px 0; 
-    background-color: #000;
-    margin: 24px 0;
+  
+  <h3 align="center" style="
+    color: #00ff00; 
+    font-family: 'Press Start 2P', monospace; 
+    text-shadow: 2px 2px #004400; 
+    letter-spacing: 2px;
+    margin-top: 20px;
   ">
-    <div style="
-      display: inline-block;
-      animation: scrollText 15s linear infinite;
-      font-family: 'Press Start 2P', monospace;
-      color: #00ff00;
-      font-size: 10px;
-      letter-spacing: 2px;
-      text-shadow: 1px 1px #004400;
-    ">
-      🚀 Just like trading — stay focused on the goal and keep committing 🚀 &nbsp; 🚀 Just like trading — stay focused on the goal and keep committing 🚀
-    </div>
-  </div>
+    Just like trading — stay focused on the goal and keep committing 🚀
+  </h3>
 
   <div align="center" style="margin-top: 20px;">
     <img src="https://raw.githubusercontent.com/Kriss245/Kriss245/main/Pixel Text.gif" 
@@ -117,13 +105,5 @@
   </p>
 </div>
 
-<!-- Import Google Font -->
+<!-- Import Google Font for Pixel Retro style -->
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
-
-<!-- Scrolling Animation Keyframes -->
-<style>
-@keyframes scrollText {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
-</style>
