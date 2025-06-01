@@ -40,7 +40,7 @@
   <br><br>
 
   <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Kriss245&bg_color=0d1117&color=00ff99&line=00ffff&point=ffffff&area=true&hide_border=true&t=<?= new Date().getTime() ?>"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Kriss245&bg_color=0d1117&color=00ff99&line=00ffff&point=ffffff&area=true&hide_border=true"
   alt="GitHub Activity Graph"
   style="margin-top: 30px; box-shadow: 0 4px 16px rgba(0, 255, 153, 0.2); border-radius: 12px; max-width: 100%;"
   />
