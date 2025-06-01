@@ -5,7 +5,7 @@
   <br><br>
   
   <h1>🕹️ Welcome to My GitHub! 🎮</h1>
-  <p><strong>Hi, I'm Kristian Abel</strong> — a Computer Science student majoring in Intelligent Systems. I'm passionate about developing my skills in Artificial Intelligence, Web Design, and Web Development. <br> I enjoy exploring creative coding projects and continuously learning to build smarter, more impactful digital solutions...</p>
+  <p><strong>Hi, I'm Kristian Abel</strong> — a Computer Science student majoring in Intelligent Systems. <br> I'm passionate about developing my skills in Artificial Intelligence, Web Design, and Web Development. <br> I enjoy exploring creative coding projects and continuously learning to build smarter, more impactful digital solutions...</p>
 
   <br><br>
   
