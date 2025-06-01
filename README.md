@@ -10,6 +10,24 @@
   <br>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+guys!;Code+like+a+hero!;"/>
+
+  <br>
+  
+  <a href="https://open.spotify.com/track/4TdB28HAhJtEPgPpeel8OS" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b27397d3c1dfd3f5f95a8000c755" 
+       alt="Midsummer Madness - 88rising" 
+       width="300px" 
+       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 10px;" />
+  </a>
+  
+  <br>
+  
+  <a href="https://open.spotify.com/track/4TdB28HAhJtEPgPpeel8OS" target="_blank">
+    <img src="https://img.shields.io/badge/Now%20Playing-Midsummer%20Madness%20by%2088rising-1DB954?style=for-the-badge&logo=spotify&logoColor=white" 
+         alt="Spotify Badge" />
+  </a>
+
+  <br>
   
   ![GitHub Snake](https://raw.githubusercontent.com/Kriss245/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
