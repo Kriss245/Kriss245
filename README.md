@@ -26,6 +26,8 @@
     I enjoy exploring creative coding projects and continuously learning to build smarter, more impactful digital solutions...
   </p>
 
+  <br>
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=380&height=40&lines=Hello+guys!;Code+like+a+hero!;" 
        style="image-rendering: pixelated;"/>
 
