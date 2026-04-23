@@ -22,7 +22,7 @@
 
   <p style="line-height: 1.4; max-width: 480px; margin: 0 auto; font-size: 11px;">
     <strong>Hi, I'm Kristian Abel</strong> — a Computer Science student majoring in Intelligent Systems. <br>
-    I'm passionate about developing my skills in Artificial Intelligence, Web Design, and Web Development. <br>
+    I'm passionate about developing my skills in Machine Learning, Artificial Intelligence, Web Design, and Web Development. <br>
     I enjoy exploring creative coding projects and continuously learning to build smarter, more impactful digital solutions...
   </p>
 
