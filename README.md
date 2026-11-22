@@ -21,7 +21,7 @@
   <h1 style="text-shadow: 2px 2px #008000;">🕹️ Welcome to My GitHub! 🎮</h1>
 
   <p style="line-height: 1.4; max-width: 480px; margin: 0 auto; font-size: 11px;">
-    <strong>Hi, I'm Kristian Abel,</strong> — An Informatics Engineering graduate focused on web development. <br> 
+    <strong>Hi, I'm Kristian Abel</strong> — An Informatics Engineering graduate focused on web development. <br> 
     I build web applications and design UI/UX in Figma. I also explore machine learning through hands-on projects in Google Colab. <br>
     I enjoy exploring creative coding projects and continuously learning to build smarter, more impactful digital solutions...
   </p>
